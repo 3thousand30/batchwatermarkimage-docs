@@ -1,0 +1,17 @@
+remote_theme: just-the-docs/just-the-docs
+
+title: BatchWatermark Image
+description: Documentation for BatchWatermark Image — batch watermarking for photos and images on Windows.
+
+color_scheme: light
+
+nav_sort: order
+
+
+logo: "https://3thousand30.github.io/batchwatermarkimage-docs/assets/images/logo.png"
+
+aux_links_new_tab: true
+
+footer_content: >
+  &copy; 2026 <a href="https://3thousand30.com">3thousand30</a> &mdash;
+  <a href="https://github.com/3thousand30/batchwatermarkimage-docs/issues">Support</a>
