@@ -8,6 +8,8 @@ nav_order: 1
 
 **BatchWatermark Image** is a Windows desktop app by [3thousand30](https://3thousand30.com) that stamps image and text watermarks onto batches of photos — logos, copyright notices, signatures, and more.
 
+[Get it on Microsoft Store](https://apps.microsoft.com/detail/9n3s7zrpxgph){: .btn .btn-blue }
+
 Point it at a folder. Configure your watermark. Click Watermark. Done.
 
 ---
